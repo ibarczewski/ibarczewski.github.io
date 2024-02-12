@@ -124,6 +124,7 @@
 : *September 2008 -- May 2009*
 
 ## Education
-**The Illinois Institute of Art - Schaumburg**
-: Bachelor of Fine Arts in Web Design & Interactive Media
-: *December 2008*
+**Webster University**
+: Bachelor of Science in Computer Science
+: Minors in Mathematics and Audio Engineering
+: *December 2010*

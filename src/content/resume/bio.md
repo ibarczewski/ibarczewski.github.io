@@ -1,3 +1,5 @@
-I am **James Finley**. Yeah, Finley as in a descendant of **MacBeth**, King of Scotland. I am a **software engineer** with over **20 years of experience** in JavaScript, CSS, PHP, mySQL, and even Swift on iOS.
+I am **Ian Barczewski**. Yeah, Finley as in a descendant of **MacBeth**, King of Scotland. I am a **software engineer** with **14 years of experience** in JavaScript, CSS, C#, mySQL, Kotlin, React and am well versed in test-driven development, Agile, and pair programming. 
 
-My passion lies in crafting **accessible**, **user-friendly**, and **lightning-fast experiences**. Throughout my career, I’ve woven a rich tapestry of successful projects, each contributing to a legacy of excellence.
+In the past six years as a **tech lead**, I have lead multiple teams, ranging from **small teams of four** who rebuilt a monolith from the ground up to a **large team of 50** who created a greenfield solution for a major national company. I advocate for **autonomy** across the teams that I lead, deconstructing knowledge silos, and making sure that everyone has an equal say in every discussion.
+
+My passion lies in crafting **accessible**, **user-friendly**, and **lightning-fast experiences**. I have worked with a wide range of clients, from companies who were still in the startup phase to Fortune 500 companies. I would love to hear from you.
