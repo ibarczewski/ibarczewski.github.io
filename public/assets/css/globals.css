@@ -7,7 +7,7 @@
   font-family: Parkly;
   src:
     local("Parkly"),
-    url("../fonts/Parkly-Regular.otf") format("opentype");
+    url("../fonts/argestadisplay-regular-webfont.woff2") format("woff2");
   font-display: block;
 }
 
@@ -115,6 +115,7 @@ h2 {
   font-family: var(--font-family--headline);
   font-size: var(--font-size--headline-2);
   color: var(--color--foreground-2);
+  text-transform: uppercase;
 
   @media (max-width: 640px) {
     text-align: center;
