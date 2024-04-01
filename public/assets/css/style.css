@@ -1,3 +1,4 @@
 @import url("globals.css");
 @import url("utilities.css");
 @import url("blocks.css");
+@import "react-image-gallery/styles/css/image-gallery.css";
